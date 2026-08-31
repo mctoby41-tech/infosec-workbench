@@ -1,15 +1,56 @@
-# infosec-workbench
+infosec-workbench
+A personal cybersecurity workbench for learning, labs, projects, tools, and professional development.
 
-Centralized workspace for security research, Security+ study, and lab writeups.
+This repository is designed as a complete workspace for building skills in cybersecurity, cloud security, detection engineering, incident response, and hands-on lab work. It serves as a learning vault, a homelab documentation center, and a portfolio of practical work.
 
-## Folder Layout
-* 00_roadmap/ - Career goals and daily study plans.
-* 01_certifications/ - Security+ domain notes and exam blueprints.
-* 02_lab_writeups/ - SOC incident triage reports and log analysis.
-* 03_cheatsheets? - Essential Linux, Bash, ans Python reference guides.
-* 04_portfolio_drafts/ - Public writeups and documentation.
+Contents
+notebook/
+Personal notes, concepts, summaries, and mental models.
+This folder acts as a personal knowledge base.
 
-## Active Focus 
-* Certification: CompTIA Security+ (SY0-701)
-* Labs: LetsDefend.io SOC Tier 1 & TryHackMe
-* Tools: Linux Cli, Bash, Python, Wireshark
+labs/
+Hands-on exercises and technical walkthroughs.
+Includes Windows, Linux, cloud, detection engineering, and incident response labs.
+
+projects/
+Portfolio-ready work such as detection rules, threat hunting playbooks, automation scripts, and homelab architecture.
+
+tools/
+Documentation of tools used across Windows, Linux, cloud, and security workflows.
+
+references/
+External resources including books, courses, cheat sheets, blogs, and documentation.
+
+Purpose
+The goal of this workbench is to:
+
+Build real cybersecurity skills through hands-on practice
+
+Document learning in a structured and repeatable way
+
+Create a portfolio that demonstrates practical ability
+
+Maintain a personal knowledge base for long-term growth
+
+Support homelab development and experimentation
+
+Track progress across multiple security domains
+
+Roadmap
+Expand notebook with core cybersecurity concepts
+
+Build out Windows, Linux, and cloud labs
+
+Create detection engineering projects
+
+Add threat hunting playbooks
+
+Document homelab architecture
+
+Add automation scripts and tooling notes
+
+Continue refining structure and content
+
+Notes
+This repository is a living workspace.
+It will grow, change, and evolve as new skills are learned and new projects are added.
