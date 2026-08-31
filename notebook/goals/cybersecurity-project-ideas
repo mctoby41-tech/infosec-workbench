@@ -1,0 +1,92 @@
+Cybersecurity Project Ideas (Boiled Down)
+A curated list of practical, resume‑ready cybersecurity projects. Each includes difficulty, hireability, and what you actually learn.
+
+1. Cloud Misconfiguration Lab
+Difficulty: 5/10
+Hireability: 7/10
+Learning: 8/10
+Summary:  
+Simulate common cloud misconfigurations (IAM mistakes, storage exposure, network issues) and document how they happen and how to fix them.
+Why it matters:  
+Over 90% of cloud breaches come from misconfigurations. This is extremely relevant in 2026+.
+
+2. Least Privilege IAM Design (Azure/AWS)
+Difficulty: 5/10
+Hireability: 7/10
+Learning: 6/10
+Summary:  
+Build a permission model for a sample app. Document why each permission exists.
+Why it matters:  
+Identity is the new perimeter. IAM roles are understaffed and high‑paying.
+
+3. GRC Gap Assessment (NIST or ISO)
+Difficulty: 1/10
+Hireability: 7/10
+Learning: 5/10
+Summary:  
+Assess a fake company against NIST CSF or ISO 27001. Produce a gap report + risk register.
+Why it matters:  
+GRC roles are exploding in demand. This proves you can translate security into business language.
+
+4. Active Directory Attack + Defend Lab
+Difficulty: 7/10
+Hireability: 8/10
+Learning: 8/10
+Summary:  
+Build a small AD environment. Perform Kerberoasting, hash attacks, then detect and defend against them.
+Why it matters:  
+AD still runs most enterprises. Purple‑team skills are extremely hireable.
+
+5. OAuth Consent Phishing Demo (Azure Entra ID)
+Difficulty: 6/10
+Hireability: 8/10
+Learning: 9/10
+Summary:  
+Build a malicious OAuth app, simulate consent phishing, then detect and harden against it.
+Why it matters:  
+Identity attacks are the modern breach path. This is cutting‑edge cloud security.
+
+6. Network Traffic Analysis (PCAP Hunting)
+Difficulty: 5/10
+Hireability: 6/10
+Learning: 7/10
+Summary:  
+Load a malicious PCAP, hunt for C2 beaconing, document indicators.
+Why it matters:  
+Packet analysis is a core SOC skill. Shows you understand traffic beyond alerts.
+
+7. Incident Response Playbook + Tabletop Exercise
+Difficulty: 2/10
+Hireability: 7/10
+Learning: 6/10
+Summary:  
+Write an IR playbook, then run a tabletop exercise and document the results.
+Why it matters:  
+Leadership loves candidates who have practiced disaster recovery.
+
+8. Build Your Own Vulnerability Scanner
+Difficulty: 7/10
+Hireability: 7/10
+Learning: 9/10
+Summary:  
+Write a basic scanner: port discovery, service detection, CVE mapping.
+Why it matters:  
+Shows deep understanding of how scanning works under the hood — rare and impressive.
+
+9. SOAR Automation Playbook
+Difficulty: 6/10
+Hireability: 8/10
+Learning: 7/10
+Summary:  
+Automate alert enrichment, containment, ticket creation, or user lockdown.
+Why it matters:  
+SOC teams desperately need automation. This is future‑proof, AI‑aligned skill.
+
+10. Find, Document, and Disclose a Real Vulnerability (CVE)
+Difficulty: 4–100/10
+Hireability: 10/10
+Learning: 9/10
+Summary:  
+Find a vulnerability in a small app or device. Perform responsible disclosure.
+Why it matters:  
+A CVE with your name on it is one of the strongest solo credentials you can earn.
