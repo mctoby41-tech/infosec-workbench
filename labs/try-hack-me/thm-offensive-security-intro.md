@@ -1,4 +1,4 @@
-# TryHackMe — Offensive Security Intro (Learning Log)
+# TryHackMe - Offensive Security Intro (Learning Log)
 
 ## Overview
 A foundational lab introducing offensive security concepts, tools, and methodologies. Logged as part of my cybersecurity learning progression.
@@ -11,7 +11,7 @@ A foundational lab introducing offensive security concepts, tools, and methodolo
 
 ## Concepts Covered
 
-- ## 1 Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
+## 1 Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
 
 ~ In this room, you'll hack your first website in a safe and legal environment to see how ethical hackers operate.
 Answer the questions below
@@ -19,14 +19,14 @@ Answer the questions below
 ~ Which term describes simulating a hacker's actions to find weaknesses?
 ~ Answer:  Offensive Security 
   
-- ## 2 This room uses a virtual desktop to simulate a real system. A browser will automatically open, displaying FakeBank, a fake banking application. This is what you will be targeting.
+## 2 This room uses a virtual desktop to simulate a real system. A browser will automatically open, displaying FakeBank, a fake banking application. This is what you will be targeting.
 
 ~ 2 View Site
 ~ Answer the questions below
 ~ What is the bank account number in the FakeBank application?
 ~ 8881
 
-- ## 3 Goal Find a weakness in the FakeBank application. One common mistake is leaving hidden pages accessible.
+## 3 Goal Find a weakness in the FakeBank application. One common mistake is leaving hidden pages accessible.
 
 ~ View Site
 ~ Open the Terminal
@@ -41,7 +41,7 @@ Dirb found one URL, http://fakebank.thm/images.
 What is the other hidden URL?
 http://fakebank.thm/bank-transfer
 
-- ## 4 You should now have found a hidden admin panel that lets you add money to your account.
+## 4 You should now have found a hidden admin panel that lets you add money to your account.
 
 ~ View Site
 ~ To open this URL in the browser of the simulated desktop:
